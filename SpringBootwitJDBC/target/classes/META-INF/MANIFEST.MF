@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootwitJDBC
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: com.jbk
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBootw
+ itJDBC
+Created-By: Maven Integration for Eclipse
+
