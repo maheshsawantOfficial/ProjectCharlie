@@ -34,6 +34,7 @@ public class EmployeeDaoImpl implements EmployeeDaoi {
 				msg = "Employee '" + employee.getFirstName() + "' added SUCCESSFULLY !!!";
 			} else {
 				msg = "";
+				System.out.println(1);
 			}
 		} catch (SQLException e) {
 			e.printStackTrace();
