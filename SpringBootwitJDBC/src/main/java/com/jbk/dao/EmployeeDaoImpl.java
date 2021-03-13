@@ -39,6 +39,7 @@ public class EmployeeDaoImpl implements EmployeeDaoi {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
+		System.out.println("Employee Added");
 		return msg;
 	}
 
